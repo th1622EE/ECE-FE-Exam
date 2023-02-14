@@ -1,4 +1,8 @@
-# Fundamentals of Engineering for Electrical and Computer Engineering Exam Prep
+# Fundamentals of Engineering for ECE Exam Prep
+
+<p align="center">
+   <img src="images/python-logo.png"/>
+</p>
 
 This repository was created as a study aid written entirely in Python. The purpose of creating this repository is to provide a **FREE** and open-source study tool for those studying for the FE Electrical and Computer exam, or simply for anyone wishing to clarify fundamental concepts through the use of scripts written to perform numerical analysis and visualization.
 
