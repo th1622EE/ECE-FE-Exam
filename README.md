@@ -8,7 +8,7 @@ This project is broken down into a variety of relatively self explanatory folder
 
 ## Knowledge Areas
 
-The following is a high-level overview of the various knowledge areas (excluding the sub-topics covered under each knowledge area which can be found on page 479 of the [Fundamentals of Engineering (FE) Electrical and Computer CBT Exam Specifications](docs/fundamentals_of_engineering_handbook_v10.0.1.pdf)). 
+The following is a high-level overview of the various knowledge areas (excluding the sub-topics covered under each knowledge area which can be found on page 479 of the [Fundamentals of Engineering (FE) Electrical and Computer CBT Exam Specifications](docs/fundamentals_of_engineering_handbook_v10.0.1.pdf)).
 
 | Knowledge Area | Minimum # of Questions | Maximum # of Questions |
 | :--- | :---: | :---: |
