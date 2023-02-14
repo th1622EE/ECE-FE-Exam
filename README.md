@@ -10,22 +10,22 @@ This project is broken down into a variety of relatively self explanatory folder
 
 The following is a high-level overview of the various knowledge areas (excluding the sub-topics covered under each knowledge area which can be found on page 479 of the [Fundamentals of Engineering (FE) Electrical and Computer CBT Exam Specifications](docs/fundamentals_of_engineering_handbook_v10.0.1.pdf)).
 
-| Knowledge Area | Minimum # of Questions | Maximum # of Questions |
-| :--- | :---: | :---: |
-| Mathematics | 11 | 17 |
-| Probability and Statistics | 4 | 6 |
-| Ethics and Professional Practice | 4 | 6 |
-| Engineering Economics | 5 | 8 |
-| Properties of Electrical Materials | 4 | 6 |
-| Circuit Analysis (DC and AC Steady State) | 11 | 17 |
-| Linear Systems | 5 | 8 |
-| Signal Processing | 5 | 8 |
-| Electronics | 7 | 11 |
-| Power Systems | 8 | 12 |
-| Electromagnetics | 4 | 6 |
-| Control Systems | 6 | 9 |
-| Communications | 5 | 8 |
-| Computer Networks | 4 | 6 |
-| Digital Systems | 8 | 12 |
-| Computer Systems | 5 | 8 |
-| Software Engineering | 4 | 6 |
+| Knowledge Area | Minimum # of Questions | Maximum # of Questions | Weighted Percent of Topic |
+| :--- | :---: | :---: | :---: |
+| Mathematics | 11 | 17 | 11% |
+| Probability and Statistics | 4 | 6 | 4% |
+| Ethics and Professional Practice | 4 | 6 | 4% |
+| Engineering Economics | 5 | 8 | 5% |
+| Properties of Electrical Materials | 4 | 6 | 4% |
+| Circuit Analysis (DC and AC Steady State) | 11 | 17 | 11% |
+| Linear Systems | 5 | 8 | 5% |
+| Signal Processing | 5 | 8 | 5% |
+| Electronics | 7 | 11 | 7% |
+| Power Systems | 8 | 12 | 8% |
+| Electromagnetics | 4 | 6 | 4% |
+| Control Systems | 6 | 9 | 6% |
+| Communications | 5 | 8 | 5% |
+| Computer Networks | 4 | 6 | 4% |
+| Digital Systems | 8 | 12 | 8% |
+| Computer Systems | 5 | 8 | 5% |
+| Software Engineering | 4 | 6 | 4% |
