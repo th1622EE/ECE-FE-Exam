@@ -29,3 +29,19 @@ The following is a high-level overview of the various knowledge areas (excluding
 | Digital Systems | 8 | 12 | 8% |
 | Computer Systems | 5 | 8 | 5% |
 | Software Engineering | 4 | 6 | 4% |
+
+### Most Heavily Weighted Topics of FE ECE EXam
+
+Based solely on the exam specifications relative to each knowledge area in the table above, it is worth nothing the most heavily weighted knowledg areas of the FE ECE Exam are as follows:
+
+| Knowledge Area | Weighted Percet of Topics |
+| :--- | :---: |
+| Mathematics | 11% |
+| Circuit Analysis | 11% |
+| Digital Systems | 8% |
+| Power Systems | 8% |
+| Electronics | 7% |
+| Control Systems | 6% |
+| Combined Total | 51% |
+
+Of the entire 100 graded questions of the exam for which you will be evaluated; the six (6) knowledge areas listed above are worth 51% of the **ENTIRE** exam. Suffice it to say, while preparing for this exam, it is important to understand which topics deserve the most studying to optimize the probability for sucess. Just something to thing about!
